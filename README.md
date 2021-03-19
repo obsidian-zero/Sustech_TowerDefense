@@ -62,3 +62,6 @@ You can click on a defense tower to view its attack range and data.
 
 ![image](https://github.com/obsidian-zero/Sustech_TowerDefense/blob/main/TD_IMAGE/TowerDetail.jpg)
 
+## Contributors
+
+harugumonasu 11810605@mail.sustech.edu.cn
