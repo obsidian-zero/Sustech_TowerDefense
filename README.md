@@ -40,7 +40,7 @@ There are seven levels. There will be special map mechanics in some levels. For 
 
 ## Game Play
 
-
+![image](https://github.com/obsidian-zero/Sustech_TowerDefense/blob/main/TD_IMAGE/MainMenu.jpg)
 
 In the level, you can press  'Q'  to create a Sprite showing the current path. You can press ‘←’ ‘→’ to change the path.
 
