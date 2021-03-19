@@ -67,3 +67,5 @@ You can click on a defense tower to view its attack range and data.
 obsidian     11810601@mail.sustech.edu.cn
 
 harugumonasu 11810605@mail.sustech.edu.cn
+
+edison 11812424@mail.sustech.edu.cn
